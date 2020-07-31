@@ -8,3 +8,6 @@ https://arxiv.org/abs/1905.07852
 ## To Do
 - [ ] codes for training
 - [ ] codes for evaluation
+
+## Tensorflow Implementation
+https://github.com/rishavroy1264bitmesra/Tensorflow-Boundary-Loss-for-Remote-Sensing-Imagery-Semantic-Segmentation
